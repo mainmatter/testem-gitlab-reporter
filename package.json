@@ -6,7 +6,14 @@
   "license": "MIT",
   "author": "simplabs GmbH",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "xmlbuilder": "^13.0.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "prettier": "1.18.2"
   }
 }
