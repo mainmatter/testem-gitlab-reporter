@@ -6,6 +6,12 @@ testem-gitlab-reporter
 [GitLab/JUnit]: https://docs.gitlab.com/ee/ci/junit_test_reports.html
 [testem]: https://github.com/testem/testem
 
+GitLab requires the JUnit format for test results. testem comes with an xUnit
+reporter. Unfortunately, even though the formats look quite similar there are
+some differences which make them incompatible in the context of GitLab CI.
+testem-gitlab-reporter is a testem reporter that specifically targets the format
+that is expected by GitLab CI.
+
 
 Install
 ------------------------------------------------------------------------------
