@@ -1,6 +1,14 @@
 testem-gitlab-reporter
 ==============================================================================
 
+[![TravisCI Build Status][travis-badge]][travis-badge-url]
+[![Latest NPM release][npm-badge]][npm-badge-url]
+
+[npm-badge]: https://img.shields.io/npm/v/testem-gitlab-reporter.svg
+[npm-badge-url]: https://www.npmjs.com/package/testem-gitlab-reporter
+[travis-badge]: https://img.shields.io/travis/simplabs/testem-gitlab-reporter/master.svg
+[travis-badge-url]: https://travis-ci.org/simplabs/testem-gitlab-reporter
+
 [GitLab/JUnit] reporter for [testem]
 
 [GitLab/JUnit]: https://docs.gitlab.com/ee/ci/junit_test_reports.html
