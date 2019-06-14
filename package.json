@@ -7,12 +7,16 @@
   "author": "simplabs GmbH",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint . --cache",
     "test": "jest"
   },
   "dependencies": {
     "xmlbuilder": "^13.0.2"
   },
   "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
     "jest": "^24.8.0",
     "prettier": "1.18.2"
   }
