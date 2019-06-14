@@ -5,5 +5,8 @@
   "repository": "https://github.com/simplabs/testem-gitlab-reporter",
   "license": "MIT",
   "author": "simplabs GmbH",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "xmlbuilder": "^13.0.2"
+  }
 }
