@@ -1,6 +1,6 @@
 {
   "name": "testem-gitlab-reporter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GitLab/JUnit reporter for testem",
   "repository": "https://github.com/simplabs/testem-gitlab-reporter",
   "license": "MIT",
