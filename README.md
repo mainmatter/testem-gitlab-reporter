@@ -45,7 +45,7 @@ module.exports = {
   test_page: 'tests/index.html?hidepassed&coverage',
   disable_watching: true,
   launch_in_ci: [
-    'PhantomJS'
+    'Chrome'
   ],
   reporter
 };
