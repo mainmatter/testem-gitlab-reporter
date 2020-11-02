@@ -40,6 +40,7 @@ you would like to keep the existing TAP console output you can use the
 const MultiReporter = require('testem-multi-reporter');
 const GitLabReporter = require('testem-gitlab-reporter');
 const TAPReporter = require('testem/lib/reporters/tap_reporter');
+const fs = require('fs');
 
 let reporter = new MultiReporter({
   reporters: [
