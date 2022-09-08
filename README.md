@@ -74,5 +74,5 @@ be passed to GitLab as described in the [GitLab docs](https://docs.gitlab.com/ee
 License
 ------------------------------------------------------------------------------
 
-This project is developed by and &copy; [simplabs GmbH](http://simplabs.com)
+This project is developed by and &copy; [Mainmatter GmbH](http://mainmatter.com)
 and contributors. It is released under the [MIT License](LICENSE.md).
