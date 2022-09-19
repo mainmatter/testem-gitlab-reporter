@@ -6,8 +6,8 @@ testem-gitlab-reporter
 
 [npm-badge]: https://img.shields.io/npm/v/testem-gitlab-reporter.svg
 [npm-badge-url]: https://www.npmjs.com/package/testem-gitlab-reporter
-[travis-badge]: https://img.shields.io/travis/simplabs/testem-gitlab-reporter/master.svg
-[travis-badge-url]: https://travis-ci.org/simplabs/testem-gitlab-reporter
+[travis-badge]: https://img.shields.io/travis/Mainmatter/testem-gitlab-reporter/master.svg
+[travis-badge-url]: https://travis-ci.org/Mainmatter/testem-gitlab-reporter
 
 [GitLab/JUnit] reporter for [testem]
 
