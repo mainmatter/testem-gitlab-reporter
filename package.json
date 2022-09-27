@@ -2,9 +2,9 @@
   "name": "testem-gitlab-reporter",
   "version": "1.0.0",
   "description": "GitLab/JUnit reporter for testem",
-  "repository": "https://github.com/simplabs/testem-gitlab-reporter",
+  "repository": "https://github.com/Mainmatter/testem-gitlab-reporter",
   "license": "MIT",
-  "author": "simplabs GmbH",
+  "author": "Mainmatter GmbH",
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --cache",
